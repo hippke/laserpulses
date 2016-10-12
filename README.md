@@ -18,6 +18,6 @@ Possible causes for the discrepancy:
 * Natural, but astrophysical phenomenon
 * Laser-pulse, but duty cycle <1
 
-A similar analysis can be repeated for all sources given in Table 1. One can compare all SDSS observations, and  data taken by other telescopes, and of course one can take new data. I have checked several examples and never found a signal in two independent datasets of the same object.
+A similar analysis can be repeated for all sources given in their 2016 paper, table 1. One can compare all SDSS observations, and data taken by other telescopes, and of course one can take new data. I have checked several (7) examples and never found a signal in two independent datasets of the same object.
 
-I have also performed Fourier transforms for QSOs using SDSS data, and found the same signals there in a few cases. QSOs are a much worse home to ET than FGK stars. Therefore, I tend to believe that the cause for these signals is not ET, but either an instrumental effect, data reduction issues, or noise.
+I have also performed Fourier transforms for QSOs using SDSS data, and found the same signals to be present. QSOs are a much worse home to ET than FGK stars. Therefore, I tend to believe that the cause for these signals is not ET, but either an instrumental effect, data reduction issues, or noise.
