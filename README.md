@@ -15,7 +15,7 @@ However, if we repeat the analysis using a different dataset taken by another te
 Possible causes for the discrepancy:
 * Instrumental or reduction artefact which occurs only sometimes
 * Noise
-* Natural, but astrophyiscal phenomenon
+* Natural, but astrophysical phenomenon
 * Laser-pulse, but duty cycle <1
 
 A similar analysis can be repeated for all sources given in Table 1. One can compare all SDSS observations, and  data taken by other telescopes, and of course one can take new data. I have checked several examples and never found a signal in two independent datasets of the same object.
