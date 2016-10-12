@@ -1,6 +1,6 @@
 # Checking SDSS and other sources for ultra-short laser pulses
 
-Recently, [Borra &amp; Trottier 2016](https://arxiv.org/abs/1610.03031) announced the detection of peculiar signals in the spectra of stars. Their method is described in an [earlier paper}(https://ui.adsabs.harvard.edu/#abs/2012AJ....144..181B/abstract). Their [first search](https://ui.adsabs.harvard.edu/#abs/2013ApJ...774..142B/abstract) in SDSS data resulted in the detection of such signals only in (223) galaxies, and not in stars. 
+Recently, [Borra &amp; Trottier 2016](https://arxiv.org/abs/1610.03031) announced the detection of peculiar signals in the spectra of stars. Their method is described in an [earlier paper](https://ui.adsabs.harvard.edu/#abs/2012AJ....144..181B/abstract). Their [first search](https://ui.adsabs.harvard.edu/#abs/2013ApJ...774..142B/abstract) in SDSS data resulted in the detection of such signals only in (223) galaxies, and not in stars. 
 
 The authors claim that these signals, now found in stars, may originate from ultra-short (100 femtoseconds) laser pulses, sent by ET.
 
